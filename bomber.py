@@ -419,7 +419,7 @@ if __name__ == "__main__":
     if args.version:
         print("Version: ", __VERSION__)
     elif args.contributors:
-        print("Contributors: ", " ".join(__CONTRIBUTORS__))
+        print("*NITHISH*")
     elif args.update:
         update()
     elif args.mail:
